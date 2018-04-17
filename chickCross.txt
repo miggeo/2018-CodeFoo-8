@@ -1,6 +1,9 @@
 /*
-My plan was to first test my code with the given set from the question then I would adjust it for a random size grid and a user-input staring point. First I would create the given
-grid, then I would traverse the grid by auto setting the x starting value to zero and by randomly selecting a y starting value from a set grid-length array. I would store the y starting value in a separate array to compare all the subsequent y starting values so to not produce duplicates. I would compare each value in the array storing the correct path in a separate array before printing. I apologize for not being able to finish in time. 
+My plan was to first test my code with the given set from the question then I would adjust it for a random size grid and a user-
+input staring point. First I would create the given grid, then I would traverse the grid by auto setting the x starting value to 
+zero and by randomly selecting a y starting value from a set grid-length array. I would store the y starting value in a separate 
+array to compare all the subsequent y starting values so to not produce duplicates. I would compare each value in the array 
+storing the correct path in a separate array before printing. I apologize for not being able to finish in time. 
 */
 import java.util.*;
 
