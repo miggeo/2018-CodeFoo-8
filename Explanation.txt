@@ -1,7 +1,10 @@
 
 To whom it may concern, 
 
-I would like to give a brief explanation for my incompleted work. I checked in early February for an update on Code Foo but due to some personal issues during the month of March I was not able to check again until April 10, 2018. It has been some time since I have done intense programming so I was a bit rusty when attempting to write solution codes for the test questions of Code Foo 8. I am not using this as excuse, I merely wanted to ask if I could be kept in consideration for any unfilled spots.
+I would like to give a brief explanation for my incompleted work. I checked in early February for an update on Code Foo but due to
+some personal issues during the month of March I was not able to check again until April 10, 2018. It has been some time since I 
+have done intense programming so I was a bit rusty when attempting to write solution codes for the test questions of Code Foo 8. I 
+am not using this as excuse, I merely wanted to ask if I could be kept in consideration for any unfilled spots.
 
 Thank you for your time,
 Miguelly Georges
